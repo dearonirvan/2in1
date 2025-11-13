@@ -25,7 +25,7 @@
     "buttonClickUrl": "https://www.youtube.com/@DPModsYT"
   },
   "login_dialog": {
-    "topText": "Access Required",
+    "topText": "Dibutuhkan Kode Akses!",
     "buttonText": "Login",
     "adminButtonText": "Admin",
     "adminButtonUrl": "https://t.me/YourTelegramLink"
