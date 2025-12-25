@@ -32,6 +32,10 @@
     "farhan": {
       "deviceId": "a8ef3ea33640c3a9",
       "expiryDate": "2025-12-29T23:59:59Z"
+    },
+    "rizwan": {
+      "deviceId": "3ad6c0d527b62a29",
+      "expiryDate": "2025-12-28T23:59:59Z"
     }
   },
   "update_dialog": {
