@@ -16,6 +16,10 @@
     "achiw": {
       "deviceId": "a018c6cdf9ad8d95",
       "expiryDate": "2026-01-24T23:59:59Z"
+    },
+    "iwan": {
+      "deviceId": "6a779c48402c9c5d",
+      "expiryDate": "2025-12-31T23:59:59Z"
     }
   },
   "update_dialog": {
