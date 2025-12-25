@@ -9,9 +9,9 @@
       "deviceId": "001859c8f4c4c672",
       "expiryDate": "2026-01-21T23:59:59Z"
     },
-    "my-master-key": {
-      "deviceId": "ANY",
-      "expiryDate": "2099-12-31T23:59:59Z"
+    "fauzi": {
+      "deviceId": "433995e0bd4b2ca8",
+      "expiryDate": "2099-12-29T23:59:59Z"
     },
     "an-expired-key": {
       "deviceId": "1111111111111111",
