@@ -20,6 +20,10 @@
     "iwan": {
       "deviceId": "6a779c48402c9c5d",
       "expiryDate": "2025-12-31T23:59:59Z"
+    },
+    "agnan": {
+      "deviceId": "d558f8217d65e58c",
+      "expiryDate": "2026-01-07T23:59:59Z"
     }
   },
   "update_dialog": {
