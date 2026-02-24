@@ -1,7 +1,7 @@
 {
   "showOnDate": "2026-11-06T00:00:00Z",
   "keys": {
-    "aldi": {
+    "aldiAbes": {
       "deviceId": "7f5205c57b40300a",
       "expiryDate": "2026-02-25T23:59:59Z"
     },
@@ -29,11 +29,11 @@
       "deviceId": "73e4aee5848531f7",
       "expiryDate": "2026-03-23T23:59:59Z"
     },
-    "farhanchange": {
+    "farhanchangeAbes": {
       "deviceId": "37c6a362b38fb9ed",
       "expiryDate": "2026-02-26T23:59:59Z"
     },
-    "rizwan": {
+    "rizwanAbes": {
       "deviceId": "3ad6c0d527b62a29",
       "expiryDate": "2026-02-26T23:59:59Z"
     }
