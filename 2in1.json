@@ -9,7 +9,7 @@
       "deviceId": "313159c8f4c4c672",
       "expiryDate": "2026-01-21T23:59:59Z"
     },
-    "fauzi": {
+    "fauziAbs": {
       "deviceId": "433995e0bd4b2ca8",
       "expiryDate": "2026-02-28T23:59:59Z"
     },
@@ -17,7 +17,7 @@
       "deviceId": "a018c6cdf9ad8d95",
       "expiryDate": "2026-03-23T23:59:59Z"
     },
-    "iwan": {
+    "iwanAbs": {
       "deviceId": "6a779c48402c9c5d",
       "expiryDate": "2026-02-28T23:59:59Z"
     },
