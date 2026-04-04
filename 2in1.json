@@ -1,5 +1,5 @@
 {
-  "showOnDate": "2026-11-06T00:00:00Z",
+  "showOnDate": "2026-04-02T00:00:00Z",
   "keys": {
     "aldinew": {
       "deviceId": "a19508ba4336dd86",
@@ -39,10 +39,10 @@
     }
   },
   "update_dialog": {
-    "topText": "Update Available",
-    "mainQuestion": "A new version is ready!",
-    "buttonText": "Download Now",
-    "buttonClickUrl": "https://t.me/+6BPuxAEhOqpiYmY1"
+    "topText": "Update Tersedia",
+    "mainQuestion": "APO versi terbaru tersedia",
+    "buttonText": "Download Sekarang",
+    "buttonClickUrl": "https://www.mediafire.com/file/5xmtd9r1cpa25su/com.alfamart.apo_v4.7.0_DONE.apk/file"
   },
   "login_dialog": {
     "topText": "Dibutuhkan Kode Akses!",
